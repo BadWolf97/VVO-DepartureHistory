@@ -1,0 +1,5 @@
+# Inhalt
+
+Dieser Datensatz enthält über die API abrufbaren im VVO durchgeführten Fahrten mit Livedaten.
+Obwohl mehr Linien enthalten sind, gibt es nur für die folgenden Linien belastbare Daten: 1-13; 61-68; 70; 80; S1-S8. Für andere Linien können die Daten korrekt sein, müssen sie jedoch nicht!
+Aktuell werden die Daten alle 3-5 Minuten abgerufen und jeden Tag commited.
